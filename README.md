@@ -1,6 +1,6 @@
 # Public Web Cameras
 Links to interesting web cameras
-### Camera List
+### Cameras List
 - http://80.14.77.21:8087/cgi-bin/guestimage.html
 - http://95.253.230.42:8081/cgi-bin/guestimage.html
 - http://148.59.208.105/cgi-bin/guestimage.html
@@ -37,6 +37,7 @@ Links to interesting web cameras
 - http://209.237.77.173/index.html?cam1=on&cam2=on&cam3=on&cam4=on&cam5=on&cam6=on&size=2&columns=4&mode=0
 ### When Camera Requires Login
 Just try some deafult logins like:
+```
 > admin, admin
 > adn, adn
 > Admin, 1234 - 12345 etc.
@@ -44,3 +45,4 @@ Just try some deafult logins like:
 > pass, pass
 > 888888, 888888
 more u can find here: https://www.ispyconnect.com/userguide-default-passwords.aspx
+```
