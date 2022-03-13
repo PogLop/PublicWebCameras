@@ -44,5 +44,6 @@ Just try some deafult logins like:
 > root, pass
 > pass, pass
 > 888888, 888888
+...
 ```
 more u can find here: https://www.ispyconnect.com/userguide-default-passwords.aspx
