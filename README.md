@@ -1,6 +1,6 @@
 # Public Web Cameras
 Links to interesting web cameras
-##No login
+## No login
 - http://80.14.77.21:8087/cgi-bin/guestimage.html
 - http://95.253.230.42:8081/cgi-bin/guestimage.html
 - http://148.59.208.105/cgi-bin/guestimage.html
@@ -18,3 +18,5 @@ Links to interesting web cameras
 - http://208.44.14.115:9000/cgi-bin/guestimage.html
 - http://80.24.34.206/cgi-bin/guestimage.html
 - http://46.238.55.91:8103/cgi-bin/guestimage.html
+- http://35.142.9.32:82/cgi-bin/guestimage.html
+- http://kamera.erdu.no/cgi-bin/guestimage.html
