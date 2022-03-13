@@ -1,6 +1,6 @@
 # Public Web Cameras
 Links to interesting web cameras
-## No login
+### Camera List
 - http://80.14.77.21:8087/cgi-bin/guestimage.html
 - http://95.253.230.42:8081/cgi-bin/guestimage.html
 - http://148.59.208.105/cgi-bin/guestimage.html
@@ -20,3 +20,27 @@ Links to interesting web cameras
 - http://46.238.55.91:8103/cgi-bin/guestimage.html
 - http://35.142.9.32:82/cgi-bin/guestimage.html
 - http://kamera.erdu.no/cgi-bin/guestimage.html
+- http://80.109.168.67/
+- http://51.52.192.109/view/viewer_index.shtml?id=15909
+- https://trafficview.org/traffic_cameras/#6/38.972/-87.363
+- http://109.233.191.130:8080/
+- http://95.93.206.235:8081/
+- http://98.174.197.15:8081/
+- http://73.176.23.73:8081/
+- http://69.206.48.76:8081/
+- http://99.32.231.231/index.html?cam1=on&cam2=on&cam3=on&cam4=on&cam5=on&cam6=on&cam7=on&cam8=on&size=1&columns=2&mode=0
+- http://weather.misericordia.edu/index.html?size=2&mode=1
+- http://212.170.100.189/mjpg/video.mjpg?timestamp=1580392032581
+- http://212.67.236.62/mjpg/video.mjpg?camera=1&timestamp=1561621294984
+- http://schapers.dvrdns.org/mjpg/video.mjpg?camera=1&timestamp=1504685552647
+- http://67.215.18.4:6067/index.html?size=2&mode=2
+- http://209.237.77.173/index.html?cam1=on&cam2=on&cam3=on&cam4=on&cam5=on&cam6=on&size=2&columns=4&mode=0
+### When Camera Requires Login
+Just try some deafult logins like:
+> admin, admin
+> adn, adn
+> Admin, 1234 - 12345 etc.
+> root, pass
+> pass, pass
+> 888888, 888888
+more u can find here: https://www.ispyconnect.com/userguide-default-passwords.aspx
