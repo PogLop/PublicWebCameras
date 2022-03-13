@@ -46,6 +46,8 @@ Just try some deafult logins like:
 > 888888, 888888
 ...
 ```
-more u can find here: https://www.ispyconnect.com/userguide-default-passwords.aspx
+More u can find here: https://www.ispyconnect.com/userguide-default-passwords.aspx
 ### How To Find The Cameras Yourself?
 All of these cameras were found using googl dorks. Here u can read som of them: https://gist.github.com/shagunattri/094dad672d62407fd1f28f1ea780d00a
+### Credits
+Some of the cameras were found by ```46 69 6C 69 70#3438```
